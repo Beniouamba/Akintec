@@ -618,7 +618,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .hero {
   position: relative;
-  background-image: url(/assets/images/bg/pexels-coding-1853305_1920.jpg);
+  background-image: url(/assets/images/bg/im8.jpg);
   min-height: 60vh;
   display: flex;
   align-items: center;
@@ -1906,7 +1906,7 @@ img { max-width: 100%; height: auto; display: block; }
 @media (max-width: 480px) {
   .container { }
   .hero {position: relative;
-  background-image: url(/assets/images/bg/pexels-coding-1853305_1920.jpg);
+  background-image: url(/assets/images/bg/im8.jpg);
   padding: 30px 10px 10px 10px;
   display: flex;
   align-items: center;
