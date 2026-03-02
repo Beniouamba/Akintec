@@ -621,6 +621,7 @@ img { max-width: 100%; height: auto; display: block; }
   background-size: cover;
   min-height: 60vh;
   display: flex;
+  background-image: url(/assets/images/bg/img9.png);
   align-items: center;
   padding: 170px 24px 40px;
 }
